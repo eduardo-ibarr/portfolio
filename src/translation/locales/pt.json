@@ -1,0 +1,12 @@
+{
+  "components": {
+    "hero": {
+      "title": "Olá, sou Eduardo de Paula.",
+      "description": "Desenvolvedor de software full-stack apaixonado por criar soluções criativas e inovadoras.",
+      "buttons": {
+        "about": "Saiba Mais",
+        "projects": "Projetos"
+      }
+    }
+  }
+}
