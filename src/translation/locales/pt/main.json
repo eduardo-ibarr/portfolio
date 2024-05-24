@@ -1,0 +1,58 @@
+{
+  "components": {
+    "hero": {
+      "title": "Olá, sou Eduardo de Paula.",
+      "description": "Desenvolvedor de software full-stack apaixonado por criar soluções.",
+      "buttons": {
+        "about": "Me conheça melhor",
+        "contact": "Contate-me"
+      }
+    },
+    "header": {
+      "links": {
+        "about": "Sobre mim",
+        "contact": "Contato",
+        "projects": "Projetos",
+        "experience": "Experiência"
+      }
+    },
+    "footer": {
+      "rights": "Todos os direitos reservados."
+    },
+    "about": {
+      "title": "Sobre mim",
+      "description": {
+        "first": "Atuo como desenvolvedor full-stack, especializado em React e TypeScript. Meu portfólio também inclui a criação de soluções em chatbots, além de desenvolvimento robusto de back-end com Node.js.",
+        "second": "Destaco-me também pela capacidade de implementar e otimizar infraestruturas em nuvem, utilizando soluções da AWS e OCI para alcançar excelência operacional e escalabilidade dos sistemas."
+      },
+      "projects": {
+        "title": "Projetos",
+        "description": "Alguns dos projetos que desenvolvi."
+      },
+      "skills": {
+        "title": "Skills"
+      },
+      "experience": {
+        "title": "Experiência Profissional"
+      },
+      "education": {
+        "title": "Formação Acadêmica"
+      }
+    }
+  },
+  "pages": {
+    "contact": {
+      "title": "Entre em contato",
+      "description": "Sinta-se à vontade para entrar em contato comigo através das seguintes plataformas:",
+      "whatsapp": "WhatsApp",
+      "linkedin": "LinkedIn",
+      "email": "Email",
+      "supportText": "Gostou do meu trabalho e quer apoiar? Considere enviar um cafézinho via "
+    },
+    "notfound": {
+      "title": "Página não encontrada",
+      "description": "Desculpe, a página que você está procurando não existe.",
+      "homeLink": "Voltar para a página inicial"
+    }
+  }
+}

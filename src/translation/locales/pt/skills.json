@@ -1,0 +1,44 @@
+{
+  "skills": [
+    {
+      "name": "React.js",
+      "level": "Avançado",
+      "progress": 80
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avançado",
+      "progress": 80
+    },
+    {
+      "name": "Node.js",
+      "level": "Avançado",
+      "progress": 80
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avançado",
+      "progress": 80
+    },
+    {
+      "name": "Next.js",
+      "level": "Intermediário",
+      "progress": 40
+    },
+    {
+      "name": "Nest.js",
+      "level": "Intermediário",
+      "progress": 40
+    },
+    {
+      "name": "AWS",
+      "level": "Intermediário",
+      "progress": 50
+    },
+    {
+      "name": "OCI",
+      "level": "Iniciante",
+      "progress": 20
+    }
+  ]
+}

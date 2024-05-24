@@ -1,0 +1,31 @@
+{
+  "experiences": [
+    {
+      "company": "Compass UOL",
+      "title": "Junior Software Developer",
+      "startDate": "March 2023",
+      "endDate": "Present",
+      "duration": "2 years",
+      "location": "Santiago, Rio Grande do Sul, Brazil",
+      "description": "Develop front-end solutions for Zendesk using React, TypeScript, and Zendesk Apps Framework. Follow best practices like GIT Flow, semantic commits, and SOLID."
+    },
+    {
+      "company": "Compass UOL",
+      "title": "Trainee Chatbot Developer",
+      "startDate": "June 2022",
+      "endDate": "March 2023",
+      "duration": "10 months",
+      "location": "Santiago, Rio Grande do Sul, Brazil",
+      "description": "Developed and maintained chatbots on Blip. Gained experience with the Microsoft Bot Framework and front-end development using React, TypeScript, and related tools."
+    },
+    {
+      "company": "Compass UOL",
+      "title": "Scholarship Program",
+      "startDate": "December 2021",
+      "endDate": "March 2022",
+      "duration": "4 months",
+      "location": "Santiago, Rio Grande do Sul, Brazil",
+      "description": "Learned JavaScript and Node.js. Created chatbots on Blip, focusing on architecture, channel integration, and AI."
+    }
+  ]
+}

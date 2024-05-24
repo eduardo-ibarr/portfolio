@@ -1,0 +1,31 @@
+{
+  "experiences": [
+    {
+      "company": "Compass UOL",
+      "title": "Desenvolvedor de Software Júnior",
+      "startDate": "março de 2023",
+      "endDate": "Presente",
+      "duration": "2 anos",
+      "location": "Santiago, Rio Grande do Sul, Brasil",
+      "description": "Desenvolvo soluções front-end para Zendesk com React, TypeScript e Zendesk Apps Framework. Sigo boas práticas como GIT Flow, commits semânticos e SOLID."
+    },
+    {
+      "company": "Compass UOL",
+      "title": "Desenvolvedor de Chatbots Trainee",
+      "startDate": "junho de 2022",
+      "endDate": "março de 2023",
+      "duration": "10 meses",
+      "location": "Santiago, Rio Grande do Sul, Brasil",
+      "description": "Desenvolvi e realizei manutenção de chatbots em Blip. Obtive experiência com Microsoft Bot Framework e desenvolvimento front-end usando React, TypeScript e ferramentas relacionadas."
+    },
+    {
+      "company": "Compass UOL",
+      "title": "Bolsista de Estágio",
+      "startDate": "dezembro de 2021",
+      "endDate": "março de 2022",
+      "duration": "4 meses",
+      "location": "Santiago, Rio Grande do Sul, Brasil",
+      "description": "Aprendi JavaScript e Node.js. Criei chatbots em Blip, focando em arquitetura, integração de canais e IA."
+    }
+  ]
+}

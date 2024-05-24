@@ -1,0 +1,58 @@
+{
+  "components": {
+    "hero": {
+      "title": "Hello, I'm Eduardo de Paula.",
+      "description": "Full-stack software developer passionate about creating solutions.",
+      "buttons": {
+        "about": "Know more about me",
+        "contact": "Contact me"
+      }
+    },
+    "header": {
+      "links": {
+        "about": "About me",
+        "contact": "Contact",
+        "projects": "Projects",
+        "experience": "Experience"
+      }
+    },
+    "footer": {
+      "rights": "All rights reserved."
+    },
+    "about": {
+      "title": "About me",
+      "description": {
+        "first": "I work as a full-stack developer, specializing in React and TypeScript. My portfolio also includes the creation of chatbot solutions, as well as robust back-end development with Node.js.",
+        "second": "I also stand out for my ability to implement and optimize cloud infrastructures, using AWS and OCI solutions to achieve operational excellence and system scalability."
+      },
+      "projects": {
+        "title": "Projects",
+        "description": "Some of the projects I've worked on."
+      },
+      "skills": {
+        "title": "Skills"
+      },
+      "experience": {
+        "title": "Professional Experience"
+      },
+      "education": {
+        "title": "Academic Background"
+      }
+    }
+  },
+  "pages": {
+    "contact": {
+      "title": "Get in Touch",
+      "description": "Feel free to reach out to me through the following platforms:",
+      "whatsapp": "WhatsApp",
+      "linkedin": "LinkedIn",
+      "email": "Email",
+      "supportText": "Did you like my work and want to support? Consider sending a coffee via "
+    },
+    "notfound": {
+      "title": "Page Not Found",
+      "description": "Sorry, the page you are looking for does not exist.",
+      "homeLink": "Back to Home"
+    }
+  }
+}
