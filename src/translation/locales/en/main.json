@@ -2,6 +2,7 @@
   "components": {
     "hero": {
       "title": "Hello, I'm Eduardo de Paula.",
+      "imageAltText": "Person smiling and looking at the camera, with a blurred background of a cityscape at night.",
       "description": "Full-stack software developer passionate about creating solutions.",
       "buttons": {
         "about": "Know more about me",
@@ -22,8 +23,9 @@
     "about": {
       "title": "About me",
       "description": {
-        "first": "I work as a full-stack developer, specializing in React and TypeScript. My portfolio also includes the creation of chatbot solutions, as well as robust back-end development with Node.js.",
-        "second": "I also stand out for my ability to implement and optimize cloud infrastructures, using AWS and OCI solutions to achieve operational excellence and system scalability."
+        "first": "As a full-stack developer, I have experience in developing web applications using Node.js and React. I also work on creating virtual assistants using Dialogflow, Blip, and ODA.",
+        "second": "I possess expertise in developing RESTful APIs, integrating with third-party services, automated testing, and agile methodologies. I am always eager to learn and improve my skills, delivering high-quality solutions that meet users' needs.",
+        "third": "I have knowledge of cloud solutions such as AWS (EC2, S3, Lambda, among others), OCI, and Azure, as well as experience with emerging technologies like AI (GenAI, RAG) and Machine Learning (TensorFlow, PyTorch)."
       },
       "projects": {
         "title": "Projects",
@@ -43,6 +45,12 @@
   "pages": {
     "contact": {
       "title": "Get in Touch",
+      "aria": {
+        "whatsapp": "Open WhatsApp in a new tab",
+        "linkedin": "Open LinkedIn in a new tab",
+        "email": "Send an email to me",
+        "picpay": "Open PicPay in a new tab"
+      },
       "description": "Feel free to reach out to me through the following platforms:",
       "whatsapp": "WhatsApp",
       "linkedin": "LinkedIn",

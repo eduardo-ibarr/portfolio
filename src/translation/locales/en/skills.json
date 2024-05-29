@@ -1,29 +1,14 @@
 {
   "skills": [
     {
-      "name": "React.js",
-      "level": "Advanced",
-      "progress": 80
-    },
-    {
-      "name": "JavaScript",
-      "level": "Advanced",
-      "progress": 80
-    },
-    {
-      "name": "Node.js",
-      "level": "Advanced",
-      "progress": 80
-    },
-    {
       "name": "TypeScript",
       "level": "Advanced",
       "progress": 80
     },
     {
-      "name": "Next.js",
-      "level": "Intermediate",
-      "progress": 40
+      "name": "React.js",
+      "level": "Advanced",
+      "progress": 80
     },
     {
       "name": "Nest.js",
@@ -39,6 +24,41 @@
       "name": "OCI",
       "level": "Beginner",
       "progress": 20
+    },
+    {
+      "name": "Azure",
+      "level": "Intermediate",
+      "progress": 40
+    },
+    {
+      "name": "Dialogflow",
+      "level": "Intermediate",
+      "progress": 60
+    },
+    {
+      "name": "Blip",
+      "level": "Intermediate",
+      "progress": 60
+    },
+    {
+      "name": "ODA",
+      "level": "Intermediate",
+      "progress": 60
+    },
+    {
+      "name": "RESTful APIs",
+      "level": "Advanced",
+      "progress": 80
+    },
+    {
+      "name": "AI (GenAI, RAG)",
+      "level": "Intermediate",
+      "progress": 50
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Intermediate",
+      "progress": 50
     }
   ]
 }

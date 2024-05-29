@@ -3,6 +3,7 @@
     "hero": {
       "title": "Olá, sou Eduardo de Paula.",
       "description": "Desenvolvedor de software full-stack apaixonado por criar soluções.",
+      "imageAltText": "Pessoa sorrindo e olhando para a câmera, com um fundo desfocado de uma paisagem urbana à noite.",
       "buttons": {
         "about": "Me conheça melhor",
         "contact": "Contate-me"
@@ -22,8 +23,9 @@
     "about": {
       "title": "Sobre mim",
       "description": {
-        "first": "Atuo como desenvolvedor full-stack, especializado em React e TypeScript. Meu portfólio também inclui a criação de soluções em chatbots, além de desenvolvimento robusto de back-end com Node.js.",
-        "second": "Destaco-me também pela capacidade de implementar e otimizar infraestruturas em nuvem, utilizando soluções da AWS e OCI para alcançar excelência operacional e escalabilidade dos sistemas."
+        "first": "Como desenvolvedor full-stack, tenho experiência no desenvolvimento de aplicações web com Node.js e React. Também atuo na criação de assistentes virtuais utilizando Dialogflow, Blip e ODA.",
+        "second": "Possuo expertise em desenvolvimento de APIs RESTful, integração com serviços de terceiros, testes automatizados e metodologias ágeis. Sempre busco aprender e aprimorar minhas habilidades, entregando soluções de alta qualidade que atendam às necessidades dos usuários.",
+        "third": "Tenho conhecimento em soluções em nuvem como AWS (EC2, S3, Lambda, entre outras), OCI e Azure, além de experiência com tecnologias emergentes como IA (GenAI, RAG) e Machine Learning (TensorFlow, PyTorch)."
       },
       "projects": {
         "title": "Projetos",
@@ -46,6 +48,12 @@
       "description": "Sinta-se à vontade para entrar em contato comigo através das seguintes plataformas:",
       "whatsapp": "WhatsApp",
       "linkedin": "LinkedIn",
+      "aria": {
+        "whatsapp": "Abrir WhatsApp em uma nova aba",
+        "linkedin": "Abrir LinkedIn em uma nova aba",
+        "email": "Enviar um email",
+        "picpay": "Abrir PicPay em uma nova aba"
+      },
       "email": "Email",
       "supportText": "Gostou do meu trabalho e quer apoiar? Considere enviar um cafézinho via "
     },

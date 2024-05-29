@@ -61,14 +61,14 @@ export default function Header() {
             {t("components.header.links.experience")}
           </Link>
 
-          <Link
+          {/* <Link
             to="/projects"
             className={`mr-5 hover:text-white ${
               location.pathname === "/projects" ? "font-bold text-white" : ""
             }`}
           >
             {t("components.header.links.projects")}
-          </Link>
+          </Link> */}
 
           <Link
             to="/contact"
