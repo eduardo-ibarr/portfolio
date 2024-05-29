@@ -1,6 +1,8 @@
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 
+import profileImage from "../../assets/profile_image.png";
+
 export default function Hero() {
   const { t } = useTranslation();
 
@@ -34,7 +36,7 @@ export default function Hero() {
           <img
             className="object-cover object-center rounded-lg md:max-w-sm"
             alt={t("components.hero.imageAltText")}
-            src="/src/assets/profile_image.png"
+            src={profileImage}
           />
         </div>
       </div>

@@ -4,6 +4,8 @@ import { Link, useLocation } from "react-router-dom";
 import { motion } from "framer-motion";
 import { FaBars, FaTimes } from "react-icons/fa";
 
+import profileImage from "../../assets/profile_image.png";
+
 export default function Header() {
   const { t, i18n } = useTranslation();
   const [selectedLanguage, setSelectedLanguage] = useState(i18n.language);
@@ -32,7 +34,7 @@ export default function Header() {
             className="flex flex-col md:flex-row title-font font-medium items-center text-white"
           >
             <img
-              src="/src/assets/profile_image.png"
+              src={profileImage}
               alt="profile"
               className="w-10 h-10 rounded-full md:mr-3 hidden md:block"
             />
